@@ -1,7 +1,5 @@
 package cuentas;
 
-//Practica de José Luis Izquierdo 
-
 public class Main {
 
     public static void main(String[] args) {
