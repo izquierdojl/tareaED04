@@ -1,7 +1,6 @@
 package cuentas;
 
 //Practica de José Luis Izquierdo 
-// 12 de marzo de 2022
 
 public class Main {
 
