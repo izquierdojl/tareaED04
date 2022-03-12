@@ -1,7 +1,6 @@
 package cuentas;
 
 //Practica de José Luis Izquierdo 
-//para la tarea de ED04
 
 public class Main {
 
