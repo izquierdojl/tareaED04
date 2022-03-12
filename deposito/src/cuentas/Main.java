@@ -2,6 +2,7 @@ package cuentas;
 
 //Practica de José Luis Izquierdo 
 //para la tarea de ED04
+// hacer commit a repositorio local
 
 public class Main {
 
