@@ -2,8 +2,6 @@ package cuentas;
 
 //Practica de José Luis Izquierdo 
 //para la tarea de ED04
-// hacer commit a repositorio local para probar
-// para prueba desde cmd
 
 public class Main {
 
